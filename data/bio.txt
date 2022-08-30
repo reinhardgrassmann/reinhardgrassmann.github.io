@@ -1,0 +1,4 @@
+ I am a Ph.D. Candidate with the Department of Computer Science and a research assistant with the Continuum Robotics Laboratory at the University of Toronto, Canada.
+ I work on continuum robotics and machine learning.
+ Before all that, I completed a B.Sc. and a M.Sc. Degree in Mechatronic at the Leibniz University Hannover, Germany in 2016 and 2018, respectively.
+ From 2018 to 2019 I worked as a research assistant at the Laboratory for Continuum Robotics at the Leibniz University Hannover.
