@@ -1,1 +1,1 @@
-This is the source code to my public academic website: https://reinhardgrassmann.github.io. It is forked from https://github.com/jonbarron/website You are welcome to clone this code for your own personal use, just please attribute the source to the original website or to this repo. 
+This is the source code to my public academic website: https://reinhardgrassmann.github.io. It is forked from https://github.com/jonbarron/website. You are welcome to clone this code for your own personal use, just please attribute the source to the original website or to this repo. 
