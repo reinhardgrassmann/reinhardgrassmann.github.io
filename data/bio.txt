@@ -1,5 +1,3 @@
-R.M.~Grassmann is a Ph.D. Candidate with the Department of Computer Science and a research assistant with the Continuum Robotics Laboratory at the University of Toronto, Canada.
-He works on continuum robotics and machine learning.
-From 2018 to 2019 he worked as a research assistant at the Laboratory for Continuum Robotics at the Leibniz University Hannover.
-Before all that, he completed a B.Sc. and a M.Sc. Degree in Mechatronics at the Leibniz University Hannover, Germany in 2016 and 2018, respectively.
-For his Master's thesis, he was awarded the Honoree of the NiedersachsenMetall Foundation.
+Reinhard M. Grassmann received his B.Sc. and M.Sc. degrees in mechatronics from the Leibniz University Hannover, Hanover, NI, Germany, in 2016 and 2018, respectively, and the Ph.D. degree in computer science from the University of Toronto, Toronto, ON, Canada, in 2025. 
+For his Master's thesis, he was awarded the Honoree of the NiedersachsenMetall Foundation. 
+His research interests include fundamentals in continuum robotics, machine learning, physical human-robot interaction, and embodied intelligence.
